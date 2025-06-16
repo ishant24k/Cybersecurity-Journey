@@ -1,0 +1,16 @@
+# TryHackMe - Network Fundamentals
+
+## Topics Covered:
+- IP addresses, DNS, MAC, ports
+- Ping, traceroute, whois, nslookup
+
+## Key Tools:
+ping  
+traceroute  
+whois  
+nslookup  
+netstat  
+ipconfig / ifconfig
+
+## Learning:
+Understood how data moves in a network and how each layer plays a role. Practiced using networking commands.

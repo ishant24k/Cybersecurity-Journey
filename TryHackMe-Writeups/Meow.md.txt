@@ -1,0 +1,18 @@
+# HTB - Meow Box
+
+## Difficulty: Very Easy  
+## Type: Linux  
+## IP: 10.129.79.56
+
+## Tools Used:
+- nmap
+- telnet
+- cat
+
+## Steps:
+1. Ran `nmap -sV 10.129.79.56` and found port 23 (Telnet)
+2. Connected using `telnet 10.129.79.56`
+3. Used `cat /flag.txt` to get the flag
+
+## What I Learned:
+Basic enumeration and using Telnet to connect to a remote service. First hands-on with HTB.

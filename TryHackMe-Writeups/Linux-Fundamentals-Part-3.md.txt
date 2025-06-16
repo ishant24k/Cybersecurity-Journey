@@ -1,0 +1,17 @@
+# TryHackMe - Linux Fundamentals Part 3
+
+## Topics Covered:
+- Environment variables
+- Processes (`ps`, `top`)
+- Archives (tar, gzip)
+
+## Tools:
+ps  
+top  
+tar  
+gzip  
+echo  
+env
+
+## Learning:
+Learned to manage system processes and how to view environment variables. Also learned compressing/decompressing files.

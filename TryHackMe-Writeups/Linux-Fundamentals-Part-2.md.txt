@@ -1,0 +1,17 @@
+# TryHackMe - Linux Fundamentals Part 2
+
+## Topics Covered:
+- File permissions
+- Editing files with `nano`
+- Using `chmod`, `chown`
+
+## Useful Commands:
+chmod  
+chown  
+nano  
+rm  
+cp  
+mv
+
+## Learning:
+Learned how Linux handles file ownership and how permissions are managed using symbols like `rwx`.

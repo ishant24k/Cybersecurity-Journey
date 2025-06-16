@@ -1,0 +1,19 @@
+# TryHackMe - Linux Fundamentals Part 1
+
+## Topics Covered:
+- File system navigation
+- Basic Linux commands (`ls`, `cd`, `pwd`, `cat`)
+- Understanding terminal
+
+## Commands Learned:
+ls
+cd
+pwd
+cat
+whoami
+
+## What I Learned:
+Linux has a hierarchical file system. I practiced using the terminal to move between directories, read file contents, and understand file paths.
+
+## Useful Tip:
+Use `man command` to read manual pages for any Linux command.
