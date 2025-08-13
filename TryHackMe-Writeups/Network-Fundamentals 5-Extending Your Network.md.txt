@@ -1,0 +1,15 @@
+# TryHackMe – Network Fundamentals: (Extending Your Network)
+
+## What is Network Extension?
+Using devices and techniques to expand the size, range, and capabilities of a network.
+
+## Key Points:
+- **Switches** – Connect devices in a LAN
+- **Repeaters** – Boost signal strength
+- **VLANs** – Segment networks for security
+
+## Example:
+Using an access point to extend Wi-Fi coverage in a large building.
+
+## What I Learned:
+- VLANs improve both performance and security.
