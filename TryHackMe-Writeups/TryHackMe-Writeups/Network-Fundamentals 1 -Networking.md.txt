@@ -1,0 +1,16 @@
+# TryHackMe – Network Fundamentals (What is Networking)
+
+## What is Networking?
+The process of connecting computers and devices to share resources and information, enabling communication over short or long distances.
+
+## Key Points:
+- **LAN** – Local network within a small area
+- **WAN** – Wide-area network over large distances
+- **Protocols** – Rules for communication (e.g., TCP/IP)
+
+## Example:
+Connecting two computers via a switch to share files.
+
+## What I Learned:
+- Networking is like a digital postal system.
+- Understanding connections is the foundation of cybersecurity.
