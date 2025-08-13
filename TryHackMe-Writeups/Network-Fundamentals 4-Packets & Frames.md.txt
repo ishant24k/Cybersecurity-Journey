@@ -1,0 +1,15 @@
+# TryHackMe – Network Fundamentals: (Packets & Frames)
+
+## What are Packets & Frames?
+- **Packet** – Data at the Network layer (contains IP info)
+- **Frame** – Data at the Data Link layer (contains MAC info)
+
+## Key Points:
+- Encapsulation wraps data with headers/footers at each layer.
+- Packets travel over networks; frames travel within local segments.
+
+## Example:
+A file sent from one computer to another is broken into packets and transmitted as frames over Ethernet.
+
+## What I Learned:
+- Packets and frames are essential to data transmission analysis.
