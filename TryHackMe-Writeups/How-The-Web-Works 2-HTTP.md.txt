@@ -1,0 +1,15 @@
+# TryHackMe – How The Web Works: (HTTP in Detail)
+
+## What is HTTP?
+The HyperText Transfer Protocol defines communication between web browsers and servers.
+
+## Key Points:
+- **Methods** – GET, POST, PUT, DELETE
+- **Status Codes** – 200 (OK), 404 (Not Found), 500 (Server Error)
+- **HTTPS** – Secure HTTP using TLS/SSL
+
+## Example:
+Submitting a form sends a POST request to the server.
+
+## What I Learned:
+- HTTP is the backbone of web communication.
