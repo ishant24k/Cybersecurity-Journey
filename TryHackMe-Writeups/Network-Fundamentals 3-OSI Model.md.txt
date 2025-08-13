@@ -1,0 +1,19 @@
+# TryHackMe – Network Fundamentals: (OSI Model)
+
+## What is the OSI Model?
+A conceptual framework describing how data moves through seven layers from one device to another.
+
+## Key Points:
+1. Physical – Cables, hardware
+2. Data Link – Frames, MAC addresses
+3. Network – IP addressing, routing
+4. Transport – TCP/UDP, ports
+5. Session – Manages connections
+6. Presentation – Data formatting
+7. Application – Software interface
+
+## Example:
+Sending an email passes through all OSI layers before reaching the recipient.
+
+## What I Learned:
+- Helps troubleshoot network issues by isolating the problem layer.
