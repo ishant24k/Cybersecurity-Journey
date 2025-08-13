@@ -1,0 +1,15 @@
+# TryHackMe – Network Fundamentals: (LAN)
+
+## What is LAN?
+A Local Area Network connects devices within a small geographic area such as a home, office, or campus.
+
+## Key Points:
+- **Switches/Routers** – Direct traffic within a LAN
+- **Topologies** – Star, bus, ring, mesh
+- **Speed** – Faster than WAN, low latency
+
+## Example:
+An office network connecting computers to a shared printer.
+
+## What I Learned:
+- LANs are efficient but must be secured to prevent local attacks.
