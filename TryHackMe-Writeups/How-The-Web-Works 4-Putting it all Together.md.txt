@@ -1,0 +1,15 @@
+# TryHackMe – How The Web Works: (Putting it all Together)
+
+## Full Process of Loading a Website:
+1. Type URL in browser.
+2. DNS resolves the domain to an IP.
+3. Browser connects via TCP.
+4. Sends HTTP request.
+5. Server responds with HTML/CSS/JS.
+6. Browser renders page.
+
+## Example:
+Visiting `example.com` triggers DNS, TCP handshake, and HTTP GET before displaying content.
+
+## What I Learned:
+- Each stage has its own security risks (DNS spoofing, MITM attacks, etc.).
