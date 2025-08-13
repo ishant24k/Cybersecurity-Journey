@@ -1,0 +1,15 @@
+# TryHackMe – How The Web Works: (How Websites Work)
+
+## How Websites Function:
+Websites operate on a client-server model where the browser (client) requests resources from a server.
+
+## Key Points:
+- **Frontend** – What users see (HTML, CSS, JS)
+- **Backend** – Server-side logic, databases
+- **Static vs Dynamic** – Fixed content vs generated content
+
+## Example:
+Social media sites use dynamic backends to display user-specific feeds.
+
+## What I Learned:
+- A single page load involves multiple resources and requests.
