@@ -1,0 +1,16 @@
+# TryHackMe – How The Web Works: (DNS in Detail)
+
+## What is DNS?
+The Domain Name System translates human-readable domain names into IP addresses.
+
+## Key Points:
+- **A Record** – IPv4 address
+- **AAAA Record** – IPv6 address
+- **MX Record** – Mail server
+- **CNAME** – Alias for a domain
+
+## Example:
+`google.com` → `142.250.190.78`
+
+## What I Learned:
+- Without DNS, we’d need to remember numerical IP addresses.
